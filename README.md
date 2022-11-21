@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/nikhil17agarwal)
 <div align='center'>
     <a href='https://leetcode.com/cheehwatang'>
     <img src='https://leetcard.jacoblin.cool/nikhil17agarwal?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'>

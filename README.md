@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nikhil17agarwal)
-<div>
-    <h3>BIO</h3>
-    <ul>
-        <li>:hammer_and_wrench: Active daily in <a href='https://leetcode.com/nikhil17agarwal/'><img src='https://img.shields.io/badge/LeetCode-orange' alt='LeetCode'></a></li>
-        <li>:dancers: Looking to contribute in open source projects</li>
-        <li>:sunrise_over_mountains: Love being in nature</li>
-    </ul>
+<div align='center'>
+    <a href='https://leetcode.com/cheehwatang'>
+    <img src='https://leetcard.jacoblin.cool/nikhil17agarwal?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'>
+    </a>
 </div>
+
+</br>

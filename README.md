@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'>
-    <a href='https://leetcode.com/nikhil17agarwal'>
+    <a href='https://leetcode.com/nikhil17agarwal' target = "_blank">
     <img src='https://leetcard.jacoblin.cool/nikhil17agarwal?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'>
     </a>
 </div>
